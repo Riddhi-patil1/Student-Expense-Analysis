@@ -36,4 +36,5 @@ An interactive Tableau dashboard was created to visualize:
 - Digital payment methods are used more frequently than cash
 
 ## Conclusion
+
 This project demonstrates end-to-end data analysis skills, from data preprocessing in Python to business-focused visualization using Tableau.
