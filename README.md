@@ -12,12 +12,9 @@ Python was used for data cleaning and analysis, and Tableau was used to create a
 ## Project Structure
 
 Student-Expense-Analysis/
-
- ├── expense_analysis.ipynb 
- 
- ├── expense_data_cleaned.csv
- 
- ├── category_spending_summary.csv
+  ├── expense_analysis.ipynb 
+  ├── expense_data_cleaned.csv
+  ├── category_spending_summary.csv
 
 ## Key Analysis Performed
 - Cleaned and prepared raw expense data using Pandas
@@ -41,4 +38,5 @@ An interactive Tableau dashboard was created to visualize:
 ## Conclusion
 
 This project demonstrates end-to-end data analysis skills, from data preprocessing in Python to business-focused visualization using Tableau.
+
 
